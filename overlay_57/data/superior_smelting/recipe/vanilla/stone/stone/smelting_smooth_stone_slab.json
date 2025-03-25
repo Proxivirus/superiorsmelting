@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "building",
+  "ingredient": [
+    "minecraft:stone_slab",
+    "minecraft:stone_brick_slab"
+  ],
+  "result": {
+    "id": "minecraft:smooth_stone_slab"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

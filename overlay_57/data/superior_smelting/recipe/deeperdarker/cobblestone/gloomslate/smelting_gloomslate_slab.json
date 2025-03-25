@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "building",
+  "ingredient": [
+    "deeperdarker:cobbled_gloomslate_slab"
+  ],
+  "result": {
+    "id": "deeperdarker:gloomslate_slab"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

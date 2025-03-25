@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smelting",
+  "category": "building",
+  "ingredient": [
+    {
+      "item": "deeperdarker:cut_gloomslate"
+    },
+    {
+      "item": "deeperdarker:chiseled_gloomslate"
+    },
+    {
+      "item": "deeperdarker:polished_gloomslate"
+    },
+    {
+      "item": "deeperdarker:gloomslate_tiles"
+    }
+  ],
+  "result": {
+    "id": "deeperdarker:smooth_gloomslate"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smelting",
+  "category": "building",
+  "ingredient": [
+    "deeperdarker:cut_sculk_stone_slab",
+    "deeperdarker:sculk_stone_slab",
+    "deeperdarker:polished_sculk_stone_slab",
+    "deeperdarker:sculk_stone_tile_slab"
+  ],
+  "result": {
+    "id": "deeperdarker:smooth_sculk_stone_slab"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

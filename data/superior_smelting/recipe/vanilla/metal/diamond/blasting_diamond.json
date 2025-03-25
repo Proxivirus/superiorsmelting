@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "ingredient": {
+    "tag": "superior_smelting:smelts_to_diamond"
+  },
+  "result": {
+    "id": "minecraft:diamond"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

@@ -1,0 +1,22 @@
+{
+  "values": [
+    "#minecraft:compasses",
+    "minecraft:bucket",
+    "minecraft:iron_axe",
+    "minecraft:iron_pickaxe",
+    "minecraft:cauldron",
+    "minecraft:chainmail_boots",
+    "minecraft:chainmail_chestplate",
+    "minecraft:chainmail_helmet",
+    "minecraft:chainmail_leggings",
+    "minecraft:hopper",
+    "minecraft:iron_boots",
+    "minecraft:iron_chestplate",
+    "minecraft:iron_door",
+    "minecraft:iron_helmet",
+    "minecraft:iron_horse_armor",
+    "minecraft:iron_leggings",
+    "minecraft:iron_trapdoor",
+    "minecraft:minecart"
+  ]
+}
