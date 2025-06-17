@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "deeperdarker:cut_sculk_stone_wall",
+              "deeperdarker:sculk_stone_wall",
+              "deeperdarker:polished_sculk_stone_wall",
+              "deeperdarker:sculk_stone_tile_wall"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "superior_smelting:deeperdarker/stone/sculk_stone/smelting_smooth_sculk_stone_wall"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "#superior_smelting:smelts_to_netherite_scrap"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "superior_smelting:vanilla/metal/netherite/blasting_netherite_scrap"
+    ]
+  }
+}
