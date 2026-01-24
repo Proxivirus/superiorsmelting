@@ -20,5 +20,21 @@
     "recipes": [
       "superior_smelting:deeperdarker/stone/gloomslate/smelting_smooth_gloomslate_wall"
     ]
-  }
+  },
+  "fabric:load_conditions": [
+    {
+      "values": [
+        "deeperdarker"
+      ],
+      "condition": "fabric:all_mods_loaded"
+    }
+  ],
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": [
+        "deeperdarker"
+      ]
+    }
+  ]
 }

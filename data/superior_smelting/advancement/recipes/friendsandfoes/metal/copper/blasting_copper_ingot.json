@@ -5,9 +5,7 @@
       "conditions": {
         "items": [
           {
-            "items": [
-              "#superior_smelting:ff_smelts_to_copper_ingot"
-            ]
+            "items": "#superior_smelting:ff_smelts_to_copper_ingot"
           }
         ]
       }
@@ -17,5 +15,21 @@
     "recipes": [
       "superior_smelting:friendsandfoes/metal/copper/blasting_copper_ingot"
     ]
-  }
+  },
+  "fabric:load_conditions": [
+    {
+      "values": [
+        "friendsandfoes"
+      ],
+      "condition": "fabric:all_mods_loaded"
+    }
+  ],
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": [
+        "friendsandfoes"
+      ]
+    }
+  ]
 }

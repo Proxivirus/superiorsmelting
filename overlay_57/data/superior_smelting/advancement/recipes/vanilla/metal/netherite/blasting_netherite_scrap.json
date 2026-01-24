@@ -5,9 +5,7 @@
       "conditions": {
         "items": [
           {
-            "items": [
-              "#superior_smelting:smelts_to_netherite_scrap"
-            ]
+            "items": "#superior_smelting:smelts_to_netherite_scrap"
           }
         ]
       }

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "ingredient": "#superior_smelting:smelts_to_gold_nugget",
+  "result": {
+    "id": "minecraft:gold_nugget"
+  },
+  "experience": 0.1,
+  "cookingtime": 100
+}

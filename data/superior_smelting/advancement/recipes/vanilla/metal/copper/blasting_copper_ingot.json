@@ -5,9 +5,7 @@
       "conditions": {
         "items": [
           {
-            "items": [
-              "#superior_smelting:smelts_to_copper_ingot"
-            ]
+            "items": "#superior_smelting:smelts_to_copper_ingot"
           }
         ]
       }
