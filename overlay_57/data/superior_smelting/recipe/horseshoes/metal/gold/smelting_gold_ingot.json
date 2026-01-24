@@ -20,9 +20,7 @@
   "neoforge:conditions": [
     {
       "type": "neoforge:mod_loaded",
-      "modid": [
-        "horseshoes"
-      ]
+      "modid": "horseshoes"
     }
   ]
 }
