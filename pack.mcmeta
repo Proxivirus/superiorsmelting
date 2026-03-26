@@ -6,7 +6,7 @@
       "max_inclusive": 48
     },
     "min_format": 48,
-    "max_format": 95,
+    "max_format": 101,
     "description": "Superior Smelting by Proxi"
   },
   "overlays": {
@@ -14,37 +14,37 @@
       {
       "formats": {
         "min_inclusive": 57,
-        "max_inclusive": 95
+        "max_inclusive": 101
       },
       "min_format": 57,
-      "max_format": 95,
+      "max_format": 101,
       "directory": "overlay_57"
     },
       {
       "formats": {
         "min_inclusive": 61,
-        "max_inclusive": 95
+        "max_inclusive": 101
       },
       "min_format": 61,
-      "max_format": 95,
+      "max_format": 101,
       "directory": "overlay_61"
     },
       {
       "formats": {
         "min_inclusive": 88,
-        "max_inclusive": 95
+        "max_inclusive": 101
       },
       "min_format": 88,
-      "max_format": 95,
+      "max_format": 101,
       "directory": "overlay_88"
     },
       {
       "formats": {
         "min_inclusive": 94,
-        "max_inclusive": 95
+        "max_inclusive": 101
       },
       "min_format": 94,
-      "max_format": 95,
+      "max_format": 101,
       "directory": "overlay_95"
     }
     ]
